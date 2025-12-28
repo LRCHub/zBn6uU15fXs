@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "サマータイムレコード",
+  "base_artist": "じん",
+  "createdAt": "2025-12-28T06:25:30.715159Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サマータイムレコード",
+      "artist": "莉犬",
+      "has_synced": true,
+      "path": "select/01_サマータイムレコード_莉犬.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サマータイムレコード - 新録",
+      "artist": "Jin",
+      "has_synced": true,
+      "path": "select/02_サマータイムレコード_-_新録_Jin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サマータイムレコード",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/03_サマータイムレコード_Jin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サマータイムレコード",
+      "artist": "ONGEKI",
+      "has_synced": true,
+      "path": "select/04_サマータイムレコード_ONGEKI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サマータイムレコード (カバー )",
+      "artist": "Amatsuki",
+      "has_synced": false,
+      "path": "select/05_サマータイムレコード_(カバー_)_Amatsuki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サマータイムレコード (Summertime Record)",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/06_サマータイムレコード_(Summertime_Record)_Jin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマータイムレコード",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_サマータイムレコード_じん.txt"
+    }
+  ]
+}
